@@ -1,6 +1,6 @@
 # webAPP
 ### Flask를 이용해 이름, 전화번호, 생일, 이미지 파일을 저장하는 웹앱을 만들었습니다.
-![image](webAPP.jng)
+![image](webAPP.png)
 
 ## 주요 기능
 - Flask를 이용하여 웹 애플리케이션 형태로 구현
